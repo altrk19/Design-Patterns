@@ -5,6 +5,7 @@ public class zMain {
         EagerInitialization.getInstance().singletonMethod();
         StaticBlockEagerInitialization.getInstance().singletonMethod();
         LazyInitialization.getInstance().singletonTest();
+        LazyInitialization2.getInstance().singletonTest();
         ThreadSafeInitialization.getInstance().singletonMethod();
     }
 }
