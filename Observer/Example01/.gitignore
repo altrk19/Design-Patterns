@@ -1,0 +1,13 @@
+/target/
+.classpath
+.project
+.settings/
+.factorypath
+.externalToolBuilders/
+wae/baseAntProperty.xml
+*.log
+bin
+*.iml
+.idea
+*.orig
+/out/
