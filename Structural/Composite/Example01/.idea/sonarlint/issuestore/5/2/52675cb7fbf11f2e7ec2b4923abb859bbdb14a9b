@@ -1,0 +1,22 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ô…€Ş8©¹Ø‹/
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(‚—½ã8©¹Ø‹/
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(³­”áşÿÿÿÿ8©¹Ø‹/
+r	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÛşÕúÿÿÿÿ8©¹Ø‹/
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(õ¯©Ãøÿÿÿÿ8©¹Ø‹/
+Q
+java:S3740"/Provide the parametrized type for this generic.(§÷ò­üÿÿÿÿ8ºØ‹/
+Q
+java:S3740"/Provide the parametrized type for this generic.(§÷ò­üÿÿÿÿ8ºØ‹/
+Q
+java:S3740"/Provide the parametrized type for this generic.(² Œ–üÿÿÿÿ8ºØ‹/
+Q
+java:S3740"/Provide the parametrized type for this generic.(² Œ–üÿÿÿÿ8ºØ‹/
+Q
+java:S3740%"/Provide the parametrized type for this generic.(»Óâ¸ÿÿÿÿÿ8ºØ‹/
+Q
+java:S3740%"/Provide the parametrized type for this generic.(»Óâ¸ÿÿÿÿÿ8ºØ‹/
+L
+java:S3740-"/Provide the parametrized type for this generic.(Úëê„8ºØ‹/
+L
+java:S3740-"/Provide the parametrized type for this generic.(Úëê„8ºØ‹/
