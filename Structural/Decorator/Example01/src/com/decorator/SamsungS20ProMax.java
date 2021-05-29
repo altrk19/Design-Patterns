@@ -1,7 +1,7 @@
 package com.decorator;
 
-public class Iphone11ProMax extends Iphone11Pro {
-    public Iphone11ProMax(Phone basicPhone) {
+public class SamsungS20ProMax extends SamsungS20Pro {
+    public SamsungS20ProMax(Phone basicPhone) {
         super(basicPhone);
     }
 
@@ -16,6 +16,6 @@ public class Iphone11ProMax extends Iphone11Pro {
     }
 
     public String extraMethod() {
-        return "Kirmizi ";
+        return "Color is white";
     }
 }

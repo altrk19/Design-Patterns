@@ -1,10 +1,10 @@
 package com.decorator;
 
-public class IPhone implements Phone {
+public class Samsung implements Phone {
 
     @Override
     public String getName() {
-        return "Iphone ";
+        return "Samsung ";
     }
 
     @Override

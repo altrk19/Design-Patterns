@@ -8,7 +8,6 @@ public class PhoneDecorator implements Phone {
         this.basicPhone = basicPhone;
     }
 
-
     @Override
     public String getName() {
         return basicPhone.getName();

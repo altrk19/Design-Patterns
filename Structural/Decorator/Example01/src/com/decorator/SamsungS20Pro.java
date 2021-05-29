@@ -1,8 +1,8 @@
 package com.decorator;
 
-public class Iphone11Pro extends PhoneDecorator {
+public class SamsungS20Pro extends PhoneDecorator {
 
-    public Iphone11Pro(Phone basicPhone) {
+    public SamsungS20Pro(Phone basicPhone) {
         super(basicPhone);
     }
 
@@ -13,7 +13,7 @@ public class Iphone11Pro extends PhoneDecorator {
 
     @Override
     public String getName() {
-        return basicPhone.getName() + "11 Pro";
+        return basicPhone.getName() + "S20 Pro";
     }
 
     @Override
