@@ -1,0 +1,21 @@
+
+U
+%src/com/command/after/PowCommand.java,9\8\98fe757482b02da996655e22075aa099194e3b6a
+O
+src/com/command/before/App.java,5\c\5c137856bbdeeb4d14eda1a891a61afb9fb3db31
+Z
+*src/com/command/after/DivisionCommand.java,a\2\a2d292ee63d4e04ee083947e8a79040b792096a6
+Z
+*src/com/command/after/MultiplyCommand.java,2\3\236b3cdc9fef2c0c37103cf777f2b96f6b4a5d58
+V
+&src/com/command/before/Calculator.java,2\9\2943a0339ee79a4c7994f5f4ecfaf0c274ede1b8
+]
+-src/com/command/after/SubtractionCommand.java,2\1\21cf00646ee622d86580f72b6a969921b2e5fe86
+V
+&src/com/command/after/Calculator2.java,4\8\481d155c1f291e0fe135955a2f5ab8b7fbb1d716
+U
+%src/com/command/after/ModCommand.java,2\7\270eb890a11730f613f9d536b19d8bb0d2da1132
+T
+$src/com/command/after/Operation.java,6\0\600c3673911088c7159702d66bff1d285ac720f3
+O
+src/com/command/after/App2.java,9\d\9db9dd2421d15a8d07c6bd561643552ac0cf4999
