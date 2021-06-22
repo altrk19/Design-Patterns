@@ -1,12 +1,12 @@
 package com.mediator;
 
-public enum Product {
+public enum ProductType {
     TOMATO("Tomato"),
     POTATO("Potato");
 
     private String productName;
 
-    Product(String productName) {
+    ProductType(String productName) {
         this.productName = productName;
     }
 

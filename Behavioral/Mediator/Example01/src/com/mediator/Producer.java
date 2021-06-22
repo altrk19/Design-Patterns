@@ -4,14 +4,14 @@ import java.math.BigDecimal;
 
 public abstract class Producer {
     private String name;
-    private Product product;
+    private ProductType productType;
     private BigDecimal productPrice;
 
-    private Mediator mediator;
+    private IMediator mediator;
 
-    public Producer(String name, Product product, BigDecimal productPrice, Mediator mediator) {
+    public Producer(String name, ProductType productType, BigDecimal productPrice, IMediator mediator) {
         this.name = name;
-        this.product = product;
+        this.productType = productType;
         this.productPrice = productPrice;
         this.mediator = mediator;
     }
@@ -20,11 +20,15 @@ public abstract class Producer {
         return name;
     }
 
-    public Product getProduct() {
-        return product;
+    public ProductType getProductType() {
+        return productType;
     }
 
     public BigDecimal getProductPrice() {
         return productPrice;
+    }
+
+    public void sellProduct(){
+        mediator.takeFromProducer(this);
     }
 }
